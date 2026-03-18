@@ -17,10 +17,10 @@ This project evolved into an ongoing client relationship. I currently provide co
 
 ## Documentation
 Detailed technical breakdowns:
-- [Architecture]
-- [Engineering Challenges]
-- [Performance Strategy]
-- [Key Engineering Decisions]
+- [Architecture](/doc/architecture.md)
+- [Engineering Challenges](/doc/engineering-challenges.md)
+- [Performance Strategy](/doc/performance.md)
+- [Key Engineering Decisions](/doc/key-engineering-decisions.md)
 
 
 ## Tech Stack
