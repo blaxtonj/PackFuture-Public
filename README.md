@@ -28,6 +28,7 @@ Detailed technical breakdowns:
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Framework** | React, Next.js, TypeScript |
+| **State Management** | Zustand |
 | **Styling & UI** | Tailwind CSS|
 | **Animation** | Motion (Motion One) |
 | **Forms & Validation** | React Hook Form, Yup |
