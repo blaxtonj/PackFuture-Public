@@ -29,7 +29,7 @@ Detailed technical breakdowns:
 | :--- | :--- |
 | **Framework** | React, Next.js, TypeScript |
 | **State Management** | Zustand |
-| **Styling & UI** | Tailwind CSS|
+| **Styling & UI** | Tailwind CSS, Tailwind Merge|
 | **Animation** | Motion (Motion One) |
 | **Forms & Validation** | React Hook Form, Yup |
 | **Backend Utilities** | Node.js, Nodemailer |
