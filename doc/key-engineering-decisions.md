@@ -1,6 +1,6 @@
 ## Key Engineering Decisions
 
-During the development of PackFuture, several architectural decisions were made to prioritize clarity, performance, and long-term maintainability. Unlike application-heavy projects, the focus was on building a scalable, content-driven platform aligned with business goals.
+During the development of [PackFuture](https://www.packfuture.co/), several architectural decisions were made to prioritize clarity, performance, and long-term maintainability. Unlike application-heavy projects, the focus was on building a scalable, content-driven platform aligned with business goals.
 
 ---
 
