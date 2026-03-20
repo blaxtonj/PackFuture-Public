@@ -1,6 +1,6 @@
 ## Engineering Challenges
 
-Unlike application-heavy projects, PackFuture is primarily a marketing and information-driven site. The focus was not complex business logic, but rather performance, SEO, and delivering a polished user experience.
+Unlike application-heavy projects, [PackFuture](https://www.packfuture.co/) is primarily a marketing and information-driven site. The focus was not complex business logic, but rather performance, SEO, and delivering a polished user experience.
 
 This introduced a different set of engineering challenges centered around optimization, structure, and maintainability rather than data processing or state complexity.
 
