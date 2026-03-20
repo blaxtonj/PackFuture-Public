@@ -1,8 +1,8 @@
-### Architecture Overview 
+## Architecture Overview 
 
 This document details the architecture of PackFuture, highlighting design principles, folder structure, and key patterns used to ensure maintainability, performance, and scalability.
 
-### High-Level Structure
+## High-Level Structure
 
 ```
 pack-future/
@@ -27,7 +27,7 @@ pack-future/
 └─ utils/                     # Helpers 
 ```
 ---
-### Routing & Route Groups
+## Routing & Route Groups
 
 The application uses the Next.js App Router for file-based routing.
 
@@ -41,8 +41,7 @@ This approach keeps the root route clean while allowing the homepage to be struc
 All other routes (consulting, recruiting, automation_materials, contact) follow standard file-based routing using page.tsx.
 
 
----
-### Component Architecture
+## Component Architecture
 
 Pages are intentionally kept lightweight and act primarily as composition layers.
 
@@ -56,8 +55,7 @@ This approach provides:
 
 Reusable components are stored in the components/ directory, while page-specific sections remain close to their respective routes.
 
----
-### API Layer
+## API Layer
 
 Server-side logic is handled through Next.js API routes located in app/api/.
 
